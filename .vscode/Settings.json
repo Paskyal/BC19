@@ -3,8 +3,8 @@
     "al.enableCodeAnalysis": true,
     "al.codeAnalyzers": [
         "${CodeCop}",
-        "${PerTenantExtensionCop}", //not for ISV
-        //"${AppSourceCop}",
+     //   "${PerTenantExtensionCop}", //not for ISV
+       // "${AppSourceCop}",
         "${UICop}" 
     ],
     "CRS.ObjectNamePrefix": "",
